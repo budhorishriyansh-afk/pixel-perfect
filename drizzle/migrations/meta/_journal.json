@@ -8,6 +8,13 @@
       "when": 1788600714726,
       "tag": "0000_create_tester_commerce_schema",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1788600845789,
+      "tag": "0001_seed_tester_demo_catalogue",
+      "breakpoints": true
     }
   ]
 }
